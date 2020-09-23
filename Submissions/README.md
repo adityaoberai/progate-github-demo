@@ -1,2 +1,3 @@
-Hey this is Harsh Kumar Moroliya
-and this is my first forked repo! xD
+Create a copy of **Name.md** and edit it for your submission
+
+**Do Not Edit This Readme**
